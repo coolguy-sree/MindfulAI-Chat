@@ -154,31 +154,6 @@ The application integrates with multiple AI services:
 - **Warning**: Attention yellows (#F59E0B, #D97706)
 - **Error**: Safety reds (#EF4444, #DC2626)
 
-## 📱 Features Showcase
-
-### Real-time Support
-![AI Chat Demo](docs/images/ai-chat-demo.png)
-*Interactive AI chat with emotional support*
-
-### Analytics Dashboard
-![Dashboard Preview](docs/images/dashboard-preview.png)
-*Comprehensive well-being analytics*
-
-### Community Features
-![Support Groups](docs/images/support-groups.png)
-*AI-matched support communities*
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) for details.
-
-### Development Setup
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 🛡️ Security & Privacy
 
 - **End-to-end encryption** for sensitive conversations
@@ -192,31 +167,6 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - **PWA Ready**: Installable as a progressive web app
 - **Offline Support**: Service worker integration
 - **SEO Optimized**: Meta tags and structured data
-
-## 🌐 Deployment
-
-### Vercel (Recommended)
-```bash
-npm i -g vercel
-vercel --prod
-```
-
-### Docker
-```bash
-docker build -t mindfulai-chat .
-docker run -p 3000:3000 mindfulai-chat
-```
-
-## 📞 Support
-
-- **Documentation**: [docs.mindfulai.chat](https://docs.mindfulai.chat)
-- **Discord Community**: [Join our server](https://discord.gg/mindfulai)
-- **Email Support**: support@mindfulai.chat
-- **Issues**: [GitHub Issues](https://github.com/yourusername/MindfulAI-Chat/issues)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
